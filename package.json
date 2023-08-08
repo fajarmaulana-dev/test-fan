@@ -1,0 +1,24 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "test1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fajarmaulana-dev/finalfim.git"
+  },
+  "author": "fajarmaulana-dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fajarmaulana-dev/finalfim/issues"
+  },
+  "homepage": "https://github.com/fajarmaulana-dev/finalfim#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
